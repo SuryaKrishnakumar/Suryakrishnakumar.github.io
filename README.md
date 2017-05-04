@@ -1,2 +1,1 @@
-# Suryakrishnakumar.github.io
-Personal Website
+<p>This is the personal website of Surya Krishnan, hosted by <a href="http://pages.github.com">GitHub Pages</a>. You can find it at <a href="http://suryakrishnan.github.io">Suryakrishnan.github.io</a>.</p>
