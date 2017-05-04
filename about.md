@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  I am actively seeking Summer Internship 2017. If you are interested, please look at [my resume](https://nirmalkanagasabai.github.io/public/Nirmal_Kanagasabai.pdf) and shoot me an email.
+  I am actively looking for new opportunities. If you are interested, please look at [my resume](https://suryakrishnakumar.github.io/public/Surya_Krishnakumar.pdf)and shoot me an email.
 </p>
 
 
@@ -14,4 +14,4 @@ title: About
 
 Previously, I worked as a Systems Engineer at [Infosys Ltd](https://www.infosys.com/), the second largest Indian IT company operating world-wide for about 2 years. I did my Bachelors in Information Technology at [Pondicherry Engineering College](http://www.pec.edu/) which is affiliated to [Pondicherry University](http://www.pondiuni.edu.in/).
 
-You can find my detailed CV [here](https://nirmalkanagasabai.github.io/public/Nirmal_Kanagasabai.pdf)
+You can find my detailed CV [here](https://suryakrishnakumar.github.io/public/Surya_Krishnakumar.pdf)
