@@ -7,7 +7,7 @@ permalink:           pretty
 title:               Surya Krishnakumar
 tagline:             '- Available for New Opportunities'
 description:         'Certified Software Tester'
-url:                 http://suryak.github.io
+url:                 https://suryakrishnakumar.github.io/
 baseurl:             ''
 gems:                [jekyll-paginate]
 paginate:            5
@@ -17,10 +17,10 @@ paginate_path:      "page:num"
 author:
   name: Surya Krishnakumar
   description: Available for new opportunities
-  gravatar: ba40219df65c8dc0258609e8ef0cb163 # md5 hash of your email address
+  gravatar: f982a7ed5e0fc5bcc6e91b695af17022 # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/suryak05
-    github:    https://github.com/NirmalKanagasabai
+    github:    https://github.com/SuryaKrishnakumar
 
 #author:
 #  name:              Mark Otto
